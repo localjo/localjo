@@ -1,9 +1,5 @@
-### Hola, hello, sziasztok! 👋
-
-- Just a kid from Akron 🦘 🇺🇸
-- Aplatana'o 🍌 🇩🇴
-- Nem cserélnek el kecskére! 🐐 🌶️ 🇭🇺
-- TypeScript/React/Python ⚛️ 🐍 💻
-- Humanist and global citizen ❤️ 🌍
-
-> Que la curiosidad sea más grande que el miedo!
+🌍 Global citizen & full-stack engineer with 15+ years of web wizardry 🧙‍♂️
+🚀 Passionate about open source, cutting-edge web tech, and building impactful apps
+💻 TypeScript enthusiast | Vue virtuoso | Ionic app alchemist | GraphQL guru
+🌟 Turning complex challenges into elegant solutions for mission-driven organizations
+🔗 Let's connect and code for a better world! 🌈
