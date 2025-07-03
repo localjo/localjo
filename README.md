@@ -1,5 +1,4 @@
-- 🌍 Global citizen & full-stack engineer with 15+ years of web wizardry 🧙‍♂️
-- 🚀 Passionate about open source, cutting-edge web tech, and building impactful apps
-- 💻 TypeScript enthusiast | Vue virtuoso | Ionic app alchemist | GraphQL guru
-- 🌟 Turning complex challenges into elegant solutions for mission-driven organizations
-- 🔗 Let's connect and code for a better world! 🌈
+🌍 Global citizen & full-stack engineer with 15+ years of app development experience
+🌟 Mission-driven, with a background in Communication and Computer Science
+🚀 Passionate about open source, cutting-edge web tech, and building impactful apps
+💻 JavaScript, Typescript, React, Vue, Node, Python, PHP and more
